@@ -2,7 +2,7 @@
 
 namespace OBP200_RolePlayingGame;
 
-
+//Detta är min fork
 class Program
 {
     // ======= Globalt tillstånd  =======
